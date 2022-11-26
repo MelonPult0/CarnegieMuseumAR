@@ -1,5 +1,5 @@
 {
-    "type": "Feature",
+    "type": "FeatureCollection",
     "features": [{
         "type": "Feature",
         "properties": {
@@ -8,4 +8,4 @@
         },
         "geometry":{"type":"Point","coordinates":[-80.102951,40.400600]}
     }]
-  }
+ }
