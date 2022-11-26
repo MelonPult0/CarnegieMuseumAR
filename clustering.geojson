@@ -1,0 +1,11 @@
+{
+    "type": "Feature",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "average_temperature": 60,
+            "time": 1669437247755
+        },
+        "geometry":{"type":"Point","coordinates":[-80.102951,40.400600]}
+    }]
+  }
